@@ -1,0 +1,32 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.1.6
+MySQL version 		: 10.4.24
+XML Reader 		: Yes
+PHP Version 		: 8.1.6
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 40M
+PHP Extension GD 	: No
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 40 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 18:10:04 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://themehunk.com/
+
+---
+
+Importing from XML https://wpthemes.themehunk.com/electro-mania/wp-content/uploads/sites/213/2022/03/electro-mania-pro.xml
+Imported Customizer Settings {"themehunk-settings":{"0":false,"nav_menu_locations":{"th-shop-mania-main-menu":61},"custom_css_post_id":-1,"th_shop_mania_theme_clr":"#ffbd27","th_shop_mania_product_single_sidebar_disable":true,"custom_logo":307,"title_disable":false,"tagline_disable":false,"sidebars_widgets":{"time":1648456104,"data":{"wp_inactive_widgets":[],"sidebar-1":[],"top-header-widget-col1":["text-7","text-6","text-8"],"main-header-widget":[],"footer-top-first":[],"footer-top-second":[],"footer-top-third":[],"footer-below-first":[],"footer-below-second":[],"footer-below-third":[],"footer-1":["text-2"],"footer-2":["text-3"],"footer-3":["text-4"],"footer-4":["text-5"],"open-woo-shop-sidebar":[],"open-woo-product-sidebar":[]}}},"custom-css":""}
+Imported - Site Options {"show_on_front":"page","page_for_posts":"","page_on_front":"Landing Page","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_scheme_color-picker":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_cpt_support":["post","page"],"elementor_disable_color_schemes":"","elementor_disable_typography_schemes":"","elementor_css_print_method":"external","elementor_editor_break_lines":"","custom_logo":"https:\/\/wpthemes.themehunk.com\/electro-mania\/wp-content\/uploads\/sites\/213\/2022\/01\/logo-electro.png","nav_menu_locations":{"th-shop-mania-main-menu":"menu-1"}}
+Imported - Widgets {"top-header-widget-col1":{"text-7":{"title":"","text":"","filter":true,"visual":true},"text-6":{"title":"","text":"Get 20% discount on your first purchase","filter":true,"visual":true},"text-8":{"title":"","text":"","filter":true,"visual":true}},"footer-1":{"text-2":{"title":"Welcome","text":"Porttitor pharetra ullamcorper. Praesent varius erat vitae nibh laoreet cursus. Donec suscipit gravida viverra. Suspendisse consectetur ipsum augue, a varius enim tempus a. Phasellus id nibh arcu\r\n\r\n\r\n","filter":true,"visual":true}},"footer-2":{"text-3":{"title":"More About Store","text":"<ul>\r\n<li>Multiple Branches<\/li>\r\n<li>Take Franchise<\/li>\r\n<li>Scheduled Offers<\/li>\r\n<li>FAQ<\/li>\r\n<li>More Links<\/li>\r\n<li>Terms<\/li>\r\n<\/ul>","filter":true,"visual":true}},"footer-3":{"text-4":{"title":"Key Links","text":"<ul>\r\n<li>Order<\/li>\r\n<li>Download<\/li>\r\n<li>Address<\/li>\r\n<li>Logout<\/li>\r\n<li>Lost Password<\/li>\r\n<li>Register<\/li>\r\n<\/ul>","filter":true,"visual":true}},"footer-4":{"text-5":{"title":"Contact Details","text":"<p>Wheeling, West Virginia,<\/p>\r\n<p>26003<\/p>\r\n<p>Contact : 304-559-3023<\/p>\r\n<p>E-mail : shopnow@store.com<\/p>\r\n<p>contact@big.com<\/p>","filter":true,"visual":true}}}
+Complete 

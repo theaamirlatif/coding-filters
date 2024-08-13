@@ -1,0 +1,10 @@
+== 1.0.2: 2024-03-29 ==
+- Fix: Modified function to manaage the elementor global color and typo.
+- Fix: Default color theme color changed.
+
+== 1.0.1: 2024-03-28 ==
+- New: Added theme URI.
+- Fix: Removed unused file.
+
+== 1.0.0: 2024-03-17 ==
+- New: First release.

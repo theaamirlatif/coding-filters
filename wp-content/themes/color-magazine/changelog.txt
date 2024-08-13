@@ -1,0 +1,38 @@
+== 1.0.9 : 2024-06-20 ==
+-Fix: Dashboard admin page api error fixed.
+
+== 1.0.8 : 2024-03-29 == 
+-Imp: Child theme demo import tweaks done.
+-Fix: woff2 not found console issue fixed.
+
+== 1.0.7 : 2023-12-27 == 
+-New: Dashboard UI changes.
+-New: Twitter X and Thread icon added.
+
+== 1.0.6 : 2023-08-29 ==
+-Fix: Top header hover color issue fixed.
+Header alignment changed to flex css.
+Archive and single font size revamp for title and description.
+
+== 1.0.5 : 2023-09-14 ==
+-Fix: Responsive spacing issue fixed for singe post.
+Design glitch managed for post navigation.
+
+== 1.0.4 : 2023-02-15 ==
+-Fix: Dark mode menu toogle design fixed done.
+-New: Added hover color added for slider block.
+
+== 1.0.3 : 2023-02-01 ==
+-Fix: Bugs at customizer range slider reset value.
+-Imp: Changed upgrade to pro url in customizer section.
+-Fix: Dynamic width css and responsive design.
+    
+== 1.0.2 : 2023-01-28 ==
+-Fix: Default value for featured posts.
+
+== 1.0.1 : 2023-01-25 ==
+-Fix: The issues listed by admin reviewer.
+-Fix: Responsive design glitch fixed.
+
+== 1.0.0 : 2023-01-20 == 
+-New: Submit theme on wordpress.org trac.
