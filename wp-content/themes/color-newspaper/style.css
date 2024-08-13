@@ -1,0 +1,87 @@
+/*!
+Theme Name:         Color Newspaper
+Theme URI:          https://preview.mysterythemes.com/color-magazine-demos/
+Author:             Mystery Themes
+Author URI:         https://mysterythemes.com
+Description:        Color Newspaper is a dynamic and eye-catching WordPress theme perfect for news and magazine websites. Its feature-rich functionality and stunning graphics make it ideal for dedicated publishers, bloggers, and journalists. The theme is highly responsive and compatible with popular plugins like Elementor and Hash Elements, allowing for more personalization. Color Newspaper provides a canvas for content to shine, allowing users to outshine their competitors and engage their audience with a powerful and visually appealing design. Check demo here: https://demo.mysterythemes.com/child-theme/color-newspaper/
+Version:            1.0.2
+Requires at least:  4.7
+Tested up to:       6.4
+Requires PHP:       7.4
+License:            GNU General Public License v3 or later
+License URI:        http://www.gnu.org/licenses/gpl-3.0.html
+Template:           color-magazine
+Text Domain:        color-newspaper
+Tags:               blog, portfolio, news, grid-Layout, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, full-width-template, footer-widgets, rtl-language-support, theme-options, translation-ready, block-styles, wide-blocks
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Color Newspaper is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+*/
+h1, h2, h3, h4, h5, h6,.ticker-post-title a,#site-navigation ul li a{
+font-family: 'Archivo', sans-serif;
+}
+
+.mt-header-ticker-wrapper {
+  display: none;
+}
+
+.home .mt-header-ticker-wrapper {
+	margin: 20px 0 -30px;
+	display: block;
+}
+
+.mt-header-ticker-wrapper .mt-container {
+  background: #fff;
+  padding: 0;
+}
+
+.ticker-post-title a {
+	font-size: 15px;
+}
+
+.top-featured-post-main-wrapper {
+  background: #fff;
+  padding: 20px;
+}
+
+.home.blog #masthead {
+  margin-bottom: 0;
+}
+
+.author-avatar {
+  text-align: center;
+}
+
+.author-social .mt-social-icon-wrap li a {
+  line-height: 45px;
+  font-size: 22px;
+}
+
+.mt-site-dark-mode h3.he-post-title a,
+.mt-site-dark-mode .elementor-divider__text.elementor-divider__element{
+	color: #fff !important;
+}
+
+.mt-site-dark-mode .elementor-divider-separator:after{
+	background-color: #fff !important;
+}
+
+.mt-site-dark-mode .he-post-meta {
+	color: #cfcfcf;
+}
+
+.mt-site-dark-mode .he-post-excerpt{
+	color: #f9f9f9 !important;
+}
+
+.mt-site-dark-mode .mt-header-ticker-wrapper .mt-container{
+	background: none;
+}
+
+article .single-thumb-title-wrapper, article .post-thumbnail {
+	border-radius: 0;
+}
